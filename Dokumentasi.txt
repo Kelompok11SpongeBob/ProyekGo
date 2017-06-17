@@ -1,0 +1,3 @@
+Dokumentasi
+
+Program kecerdasan buatan untuk game board Go ini dibuat berdasarkan AI Michi dari https://github.com/pasky/michi yang disesuaikan input dan outputnya dengan https://github.com/dgunamardi/KB , dimana input yang diterima berupa board dalam bentuk string dan output dilakukan dengan print koordinat yang diinginkan atau print string 'pass' jika hendak pass. Program ini menggunakan Monte Carlo Tree Search dan isi variabel telah disesuaikan agar bisa memenuhi limit 10 detik yang disediakan, dengan rata-rata waktu terlama kurang lebih 8 detik pada pc lab SI (processor i5 ?? dan RAM 8 GB)
